@@ -121,6 +121,7 @@
             // tabPage1
             // 
             this.tabPage1.BackColor = System.Drawing.Color.Transparent;
+            this.tabPage1.BackgroundImage = global::FlightBooking.Properties.Resources.bg;
             this.tabPage1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.tabPage1.Controls.Add(this.txtbx_cardamount);
             this.tabPage1.Controls.Add(this.label19);
@@ -262,9 +263,9 @@
             this.label16.Font = new System.Drawing.Font("Arial Rounded MT Bold", 8.25F);
             this.label16.Location = new System.Drawing.Point(8, 313);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(49, 24);
+            this.label16.Size = new System.Drawing.Size(52, 24);
             this.label16.TabIndex = 102;
-            this.label16.Text = "  Card\r\nNumber";
+            this.label16.Text = "Account\r\nNumber";
             this.label16.Click += new System.EventHandler(this.label16_Click);
             // 
             // label15
