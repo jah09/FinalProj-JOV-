@@ -239,15 +239,14 @@ namespace FlightBooking
         {
             seatNumber = "C3";
         }
-
         private void dThreeBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "D3";
         }
 
         private void fThreeBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "F3";
         }
 
         private void button14_Click(object sender, EventArgs e)
@@ -257,93 +256,197 @@ namespace FlightBooking
 
         private void aFourBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "A4";
         }
 
         private void bFourBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "B4";
         }
 
         private void cFourBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "C4";
         }
 
         private void dFourBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "D4";
         }
 
         private void eFourBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "E4";
         }
 
         private void fFourBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "F4";
         }
 
         private void aFiveBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "A5";
         }
 
         private void bFiveBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "B5";
         }
 
         private void cFiveBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "C5";
         }
 
         private void dFiveBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "D5";
         }
 
         private void eFiveBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "E5";
         }
 
         private void fFiveBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "F5";
         }
 
         private void aSixBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "A6";
         }
 
         private void bSixBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "B6";
         }
 
         private void cSixBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "C6";
         }
 
         private void dSixBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "D6";
         }
 
         private void eSixBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "E6";
         }
 
         private void fSixBtn_Click(object sender, EventArgs e)
         {
-
+            seatNumber = "F6";
         }
+        //private void dThreeBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void fThreeBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void button14_Click(object sender, EventArgs e)
+        //{
+        //    MessageBox.Show("aw");
+        //}
+
+        //private void aFourBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void bFourBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void cFourBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void dFourBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void eFourBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void fFourBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void aFiveBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void bFiveBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void cFiveBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void dFiveBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void eFiveBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void fFiveBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void aSixBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void bSixBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void cSixBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void dSixBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void eSixBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void fSixBtn_Click(object sender, EventArgs e)
+        //{
+
+        //}
 
         private void viewComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {

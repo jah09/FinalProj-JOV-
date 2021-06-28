@@ -142,5 +142,8 @@
   <ItemGroup>
     <None Include="pics_bg\Travel-Airplane-icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kok.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

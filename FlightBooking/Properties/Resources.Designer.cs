@@ -153,6 +153,16 @@ namespace FlightBooking.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kok {
+            get {
+                object obj = ResourceManager.GetObject("kok", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Travel_Airplane_icon {
             get {
                 object obj = ResourceManager.GetObject("Travel-Airplane-icon", resourceCulture);
